@@ -1,6 +1,6 @@
 ### 🙋 I'm Hyeongjin Choe a.k.a `r4k0nb4k0n`.
 
-Test is better than stare.
+Test is better than stare.  
 Think harder, Code better, Debug faster and Test stronger.
 
 <!--
