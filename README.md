@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🙋 I'm Hyeongjin Choe a.k.a `r4k0nb4k0n`.
+
+Test is better than stare.
+Think harder, Code better, Debug faster and Test stronger.
 
 <!--
 **r4k0nb4k0n/r4k0nb4k0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
