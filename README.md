@@ -1,7 +1,9 @@
 ### 🙋 I'm Hyeongjin Choe a.k.a `r4k0nb4k0n`.
 
 Test is better than stare.  
-Think harder, Code better, Debug faster and Test stronger.
+Think harder, Code better, Debug faster and Test stronger.  
+Code review makes the reviewee, reviewer, and the code strong.  
+Remove obscure things through communication with peers.
 
 - 🌱 I’m currently learning in 42Seoul.
 
