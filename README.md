@@ -12,7 +12,7 @@
 
 - Test is better than stare.  
 - Think harder, Code better, Debug faster and Test stronger.  
-- Code review makes the reviewee, reviewer, and the code stronger.  
+- Code review makes the reviewee, the reviewer, and the code stronger.  
 - Remove obscure things through communication with peers.
 
 ### 🧑‍💻 I’m currently doing some system programming related projects in 42Seoul.
