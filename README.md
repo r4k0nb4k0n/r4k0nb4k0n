@@ -1,4 +1,4 @@
-### 🙋 I'm Hyeongjin Choe a.k.a `r4k0nb4k0n`.
+### 🙋 I'm Hyeongjin Choi a.k.a `r4k0nb4k0n`.
 
 - 🤓 I'm interested in ...
 
