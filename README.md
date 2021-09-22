@@ -1,26 +1,29 @@
 ### 🙋 I'm Hyeongjin Choi a.k.a `r4k0nb4k0n`.
 
-- 🤓 I'm interested in ...
+- There are so many things(Web Development, System Programming, CERT, etc...) that I have done with, and I wanna dive into.
+- I don't hesitate in going a new way.
 
-  - Web Development (especially FrontEnd)
-  - Functional Programming
+### 🤓 I'm interested in ...
 
-- 🧐 I'm serious about mottos below:
+- Web Development (especially Frontend w/ React, Vue)
+- Functional Programming for better code-maintenance
 
-  - Test is better than stare.  
-  - Think harder, Code better, Debug faster and Test stronger.  
-  - Code review makes the reviewee, reviewer, and the code stronger.  
-  - Remove obscure things through communication with peers.
+### 🧐 I'm serious about mottos below:
 
-- 🧑‍💻 I’m currently doing some system programming related projects in 42Seoul.
+- Test is better than stare.  
+- Think harder, Code better, Debug faster and Test stronger.  
+- Code review makes the reviewee, reviewer, and the code stronger.  
+- Remove obscure things through communication with peers.
 
-  [![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi)](https://github.com/JaeSeoKim/badge42)  
-  [![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+### 🧑‍💻 I’m currently doing some system programming related projects in 42Seoul.
 
-- 💁 If you want more ...
+[![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi)](https://github.com/JaeSeoKim/badge42)  
+[![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
-  - CV ...soon!
-  - Portfolio ...soon!
+### 💁 If you want more ...
+
+- CV ...soon!
+- Portfolio ...soon!
 
 <!--
 **r4k0nb4k0n/r4k0nb4k0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
