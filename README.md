@@ -22,6 +22,7 @@
 
 ### 💁 If you want more ...
 
+- [Timeline](https://r4k0nb4k0n.github.io/timeline)
 - CV ...soon!
 - Portfolio ...soon!
 
