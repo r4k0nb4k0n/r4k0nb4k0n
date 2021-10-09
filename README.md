@@ -1,11 +1,7 @@
 ## 🙋 I'm Hyeongjin Choi a.k.a `r4k0nb4k0n`.
 <div style="display: flex">
 
-<div style="flex: 1;
-            width: 50%;
-            margin-left: 4px;
-            margin-right: 4px;
-            white-space: initial;">
+<div style="flex: 1;width: 50%;margin-left: 4px;margin-right: 4px;white-space: initial;">
 
 ### 🤓 I'm interested in ...
 
@@ -27,10 +23,7 @@
 
 </div>
 
-<div style="flex: 1;
-            width: 50%;
-            margin-left: 4px;
-            margin-right: 4px;">
+<div style="flex: 1;width: 50%;margin-left: 4px;margin-right: 4px;">
 
 ![r4k0nb4k0n's github stats](https://github-readme-stats.vercel.app/api?username=r4k0nb4k0n&show_icons=true&count_private=true&cache_seconds=86400&theme=prussian)
 
