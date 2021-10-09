@@ -21,9 +21,9 @@
 - CV ...soon!
 - Portfolio ...soon!
 
-<p>
-<img width="50%" src="https://badge42.herokuapp.com/api/stats/hyechoi">  
-[![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+<p align="left">
+  <img width="50%" src="https://badge42.herokuapp.com/api/stats/hyechoi">
+  <img width="50%" src="https://badge42.herokuapp.com/api/stats/hyechoi?cursus=C%20Piscine">
 </p>
 
 <!--
