@@ -1,4 +1,4 @@
-
+## 🙋 I'm Hyeongjin Choi a.k.a `r4k0nb4k0n`.
 <div style="display: flex">
 
 <div style="flex: 1;
