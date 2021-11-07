@@ -21,6 +21,8 @@
 - [Timeline](https://r4k0nb4k0n.github.io/timeline)
 - CV ...soon!
 - Portfolio ...soon!
+- Speaking
+  - [Greedy한 개발 인생 @ DevFest 2021](https://docs.google.com/presentation/d/1MX9b6pXdBIBmzmAFbmiD6o9Qf8gWRRsuhVK-R9IsEWE/edit?usp=sharing)
 
 </td>
 <td width="50%">
