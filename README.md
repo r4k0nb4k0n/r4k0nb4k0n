@@ -7,7 +7,6 @@
 ### 🤓 I'm interested in ...
 
 - Web Development (especially Frontend w/ React, Vue)
-- Functional Programming for better code-maintenance
 
 ### 🧐 I'm serious about mottos below:
 
