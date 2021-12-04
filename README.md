@@ -7,6 +7,8 @@
 ### 🤓 I'm interested in ...
 
 - Web Development (especially Frontend w/ React, Vue)
+  - RESTful API is good, but prefer GraphQL
+  - State Management
 
 ### 🧐 I'm serious about mottos below:
 
