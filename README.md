@@ -32,10 +32,6 @@
 
 ![r4k0nb4k0n's github lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=r4k0nb4k0n&show_icons=true&count_private=true&layout=compact&cache_seconds=86400&theme=prussian)
 
-[![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi)](https://github.com/JaeSeoKim/badge42)
-
-[![hyechoi's 42 stats](https://badge42.herokuapp.com/api/stats/hyechoi?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
-
 </td>
 </tr>
 </table>
