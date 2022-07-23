@@ -6,16 +6,12 @@
 
 ### 🤓 I'm interested in ...
 
-- Web Development (especially Frontend w/ React, Vue)
-  - RESTful API is good, but prefer GraphQL if possible
-  - State Management
+- Web Development (especially Frontend using React, Vue and Angular 2)
+- Reactive programming using RxJS
 
 ### 🧐 I'm serious about mottos below:
 
-- Test is better than stare.  
-- Think harder, Code better, Debug faster and Test stronger.  
-- Code review makes the reviewee, the reviewer, and the code stronger.  
-- Remove obscure things through communication with peers.
+- WIP
 
 ### 💁 If you want more ...
 
